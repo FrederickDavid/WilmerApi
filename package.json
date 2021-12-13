@@ -6,5 +6,5 @@
     "multer": "^1.4.4"
   },
   "script":{
-    "start": "nodemon server.js"}
+    "start": "node server.js"}
 }
